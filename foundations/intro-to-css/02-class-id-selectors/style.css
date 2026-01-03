@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 .odd_numbered {
-    background-color: rgb(253, 114, 114);
+    background-color: rgb(241, 155, 155);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
@@ -15,5 +15,6 @@
 
 #fourth {
     background-color: rgb(118, 240, 118);
-    font-size: 24px bold;
+    font-size: 24px;
+    font-weight: bold;
 }
